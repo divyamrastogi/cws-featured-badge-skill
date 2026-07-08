@@ -1,0 +1,24 @@
+{
+  "name": "divyamrastogi-skills",
+  "description": "Claude Code skills by Divyam Rastogi — Chrome extension and Chrome Web Store tooling.",
+  "owner": {
+    "name": "Divyam Rastogi",
+    "url": "https://github.com/divyamrastogi"
+  },
+  "plugins": [
+    {
+      "name": "cws-featured-badge",
+      "source": "./",
+      "description": "Audit any Chrome extension against Chrome Web Store Featured-badge and Established Publisher badge criteria, and produce a prioritized fix plan to qualify.",
+      "category": "development",
+      "keywords": [
+        "chrome-extension",
+        "chrome-web-store",
+        "featured-badge",
+        "store-listing",
+        "audit",
+        "manifest-v3"
+      ]
+    }
+  ]
+}

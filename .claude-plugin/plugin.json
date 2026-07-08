@@ -1,0 +1,21 @@
+{
+  "name": "cws-featured-badge",
+  "displayName": "Chrome Web Store Featured Badge Audit",
+  "description": "Audit any Chrome extension against Chrome Web Store Featured-badge and Established Publisher badge criteria, and produce a prioritized fix plan to qualify.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Divyam Rastogi",
+    "url": "https://github.com/divyamrastogi"
+  },
+  "homepage": "https://github.com/divyamrastogi/cws-featured-badge-skill",
+  "repository": "https://github.com/divyamrastogi/cws-featured-badge-skill",
+  "license": "MIT",
+  "keywords": [
+    "chrome-extension",
+    "chrome-web-store",
+    "featured-badge",
+    "store-listing",
+    "audit",
+    "manifest-v3"
+  ]
+}
