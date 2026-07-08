@@ -87,6 +87,11 @@ skills/
         └── audit-checklist.md    # the 7-area, evidence-based checklist
 ```
 
+## Privacy
+
+The plugin is pure Markdown instructions — no telemetry, no servers, no data
+collection. Full policy: [javascriptbit.com/cws-featured-badge/privacy](https://javascriptbit.com/cws-featured-badge/privacy/)
+
 ## License
 
 [MIT](LICENSE)
