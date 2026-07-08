@@ -87,6 +87,12 @@ skills/
         └── audit-checklist.md    # the 7-area, evidence-based checklist
 ```
 
+## Support
+
+If this plugin helped your extension get featured, you can support my work:
+
+[![Buy me a coffee on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/javascriptbit)
+
 ## Privacy
 
 The plugin is pure Markdown instructions — no telemetry, no servers, no data
